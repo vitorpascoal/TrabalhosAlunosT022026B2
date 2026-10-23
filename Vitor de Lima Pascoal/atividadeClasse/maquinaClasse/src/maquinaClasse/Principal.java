@@ -13,7 +13,7 @@ public class Principal {
 
         while (opcao != 4) {
             System.out.println("\nEscolha uma opção:");
-            System.out.println("1 - Comprar refrigerante");
+            System.out.println("1 - Comprar rfrigerante");
             System.out.println("2 - Repor estoque");
             System.out.println("3 - Exibir estado da máquina");
             System.out.println("4 - Sair");
